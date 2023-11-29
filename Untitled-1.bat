@@ -82,7 +82,7 @@
         <div class="row text-center justify-content-evenly">
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img 1/966736b0f455d221d9f3b71f14167b7e.jpg" class="card-img-top" alt="BluePink Cake"/>
+              <img src="img 1/966736b0f455d221d9f3b71f14167b7e.jpg" class="card-img-top" alt=""/>
               <div class="card-body">
                 <p class="card-text">🤎🤎🤎Choco Cake🤎🤎🤎</p>
               </div>
@@ -90,7 +90,7 @@
           </div class="row text-center justify-content-evenly">
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src="img2/6764a23712648c4db8370b1c0f18ebee.jpg" class="card-img-top" alt="BluePink Cake"/>
+                <img src="img2/6764a23712648c4db8370b1c0f18ebee.jpg" class="card-img-top" alt=""/>
                 <div class="card-body">
                   <p class="card-text">💗💗💗RedVelvet cake💗💗💗</p>
                 </div>
@@ -99,7 +99,7 @@
               <div class="row text-center justify-content-evenly">
                 <div class="col-md-4 mb-3">
                   <div class="card">
-                    <img src="img3/538b9e2ad37aa80240463afce415e8ec.jpg" class="card-img-top" alt="BluePink Cake"/>
+                    <img src="img3/538b9e2ad37aa80240463afce415e8ec.jpg" class="card-img-top" alt=""/>
                     <div class="card-body">
                       <p class="card-text">💚💚💚Matcha Cake💚💚💚</p>
                     </div>
